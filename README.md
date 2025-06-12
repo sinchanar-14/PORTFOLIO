@@ -57,4 +57,4 @@ Google Fonts (Open Sans, Roboto, Lato)
 Animate.css (fade-in, bounce animations)
 
 
-*OUTPUT*: <img width="907" alt="Image" src="https://github.com/user-attachments/assets/d2ad7f2c-cfab-405b-9d42-eb517800cf60" />
+*OUTPUT*:<img width="874" alt="Image" src="https://github.com/user-attachments/assets/cdabcc3d-8497-49b6-bad5-c304f34871f6" />
